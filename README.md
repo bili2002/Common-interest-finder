@@ -2,25 +2,25 @@
 
 To start the project:
 ```console
-python .\runner start
+python .\runner.py start
 ```
 
 To add interests:
 ```console
-python .\runner add arg1 [arg2, ..., argn]
+python .\runner.py add arg1 [arg2, ..., argn]
 ```
 
 To add rates for people:
 ```console
-python .\runner rate arg1 [arg2, ..., argn]
+python .\runner.py rate arg1 [arg2, ..., argn]
 ```
 
 To find common interests between people:
 ```console
-python .\runner find arg1 [arg2, ..., argn]
+python .\runner.py find arg1 [arg2, ..., argn]
 ```
 
 To do both of the above:
 ```console
-python .\runner all arg1 [arg2, ..., argn]
+python .\runner.py all arg1 [arg2, ..., argn]
 ```
